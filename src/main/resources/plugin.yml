@@ -1,0 +1,6 @@
+name: GabeIsBae
+version: ${project.version}
+main: me.vomet.gabeisbae.main.Main
+api-version: 1.8
+commands:
+  quotegabe:
